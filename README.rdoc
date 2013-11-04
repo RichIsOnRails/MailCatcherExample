@@ -1,0 +1,3 @@
+== MailCatcher Example App
+
+See http://richonrails.com/articles/debugging-emails-with-mailcatcher for details.
